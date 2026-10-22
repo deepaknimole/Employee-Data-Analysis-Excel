@@ -1,6 +1,6 @@
-# Employee-Data-Analysis-Excel
-Employee data analysis and interactive dashboard using Excel.
 # Employee Data Analysis (Excel)
+
+![Dashboard Preview](Employee%20Data%20Analysis.png)
 
 ## Project Overview
 Interactive HR dashboard banaya gaya hai Microsoft Excel me employee performance, attendance aur productivity track karne ke liye[cite: 1, 3].
@@ -13,10 +13,7 @@ Interactive HR dashboard banaya gaya hai Microsoft Excel me employee performance
 - **KPI:** Performance Status[cite: 3]
 
 ## Key Analysis
-- Department wise employee count aur pending tasks ka analysis[cite: 1].
+- Department wise employee count aur pending tasks ka analysis.
 - Attendance status (Present, WFH, Leave) ka breakdown[cite: 1].
 - Top employees ke completed tasks aur overtime hours ki tracking[cite: 1].
 - Performance Status (High Performer, Needs Improvement, On Track) ki reporting[cite: 1].
-
-## Dashboard Preview
-![Dashboard Preview](Employee%20Data%20Analysis.png)
